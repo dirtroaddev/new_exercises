@@ -28,8 +28,6 @@
 
 function isNotANumber(value) {
     let arr = [NaN]
-    
-
     return arr.includes(value);
 }
 
